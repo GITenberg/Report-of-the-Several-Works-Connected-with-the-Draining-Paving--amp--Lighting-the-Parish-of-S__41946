@@ -1,0 +1,25 @@
+_repo: Report-of-the-Several-Works-Connected-with-the-Draining-Paving--amp--Lighting-the-Parish-of-S__41946
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Broadbridge, James
+    gutenberg_agent_id: '41442'
+    url: http://www.gutenberg.org/2009/agents/41442
+description: ''
+gutenberg_issued: '2013-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41946'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civil engineering -- England -- London'
+- !lcc 'TA'
+title: Report of the Several Works Connected with the Draining, Paving & Lighting
+  the Parish of Saint Mary Abbotts, Kensington, 1856
+url: http://www.gutenberg.org/ebooks/41946
