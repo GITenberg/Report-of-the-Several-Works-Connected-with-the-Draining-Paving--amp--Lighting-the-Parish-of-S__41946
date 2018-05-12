@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41442'
     url: http://www.gutenberg.org/2009/agents/41442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41946#Report-of-the-Several-Works-Connected-with-the-Draining-Paving--amp--Lighting-the-Parish-of-S_
 gutenberg_issued: '2013-01-29'
 gutenberg_type: Text
 identifiers:
